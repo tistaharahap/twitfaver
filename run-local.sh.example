@@ -1,0 +1,8 @@
+#!/bin/sh
+export API_KEY=''
+export API_SECRET_KEY=''
+export ACCESS_TOKEN=''
+export ACCESS_TOKEN_SECRET=''
+export MY_SCREEN_NAME=''
+
+python app.py
